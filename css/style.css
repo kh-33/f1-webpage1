@@ -19,7 +19,7 @@ h3 {
 
 .first {
   position: relative;
-  background-image: url(/images/bahrain.jpg);
+  background-image: url(../images/bahrain.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   margin: auto;
@@ -469,7 +469,7 @@ span:first-child {
 .numbers {
   margin-top: 50px;
   position: relative;
-  background-image: url(/images/bahraingp.webp);
+  background-image: url(../images/bahraingp.webp);
   height: 350px;
   background-size: cover;
   background-attachment: fixed;
@@ -508,7 +508,7 @@ span:first-child {
   width: 250px;
 }
 .event {
-  background-image: url(/images/eventbg.jpg);
+  background-image: url(../images/eventbg.jpg);
   height: 800px;
 }
 .over {
@@ -615,7 +615,8 @@ span:first-child {
 }
 .testimonial {
   position: relative;
-  background-image: url(/images/testimonial-bg.jpg);
+  background-image: url(../images/testimonial-bg.jpg);
+
   background-attachment: fixed;
   background-size: cover;
   height: 350px;
